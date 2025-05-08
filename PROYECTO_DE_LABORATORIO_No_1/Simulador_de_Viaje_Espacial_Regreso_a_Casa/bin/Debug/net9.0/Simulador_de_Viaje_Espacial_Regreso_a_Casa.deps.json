@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Simulador_de_Viaje_Espacial_Regreso_a_Casa/1.0.0": {
+        "runtime": {
+          "Simulador_de_Viaje_Espacial_Regreso_a_Casa.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Simulador_de_Viaje_Espacial_Regreso_a_Casa/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
