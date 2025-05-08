@@ -1,0 +1,14 @@
+C:\L10_JR_1096625\Tarea2\bin\Debug\net9.0\Tarea2.exe
+C:\L10_JR_1096625\Tarea2\bin\Debug\net9.0\Tarea2.deps.json
+C:\L10_JR_1096625\Tarea2\bin\Debug\net9.0\Tarea2.runtimeconfig.json
+C:\L10_JR_1096625\Tarea2\bin\Debug\net9.0\Tarea2.dll
+C:\L10_JR_1096625\Tarea2\bin\Debug\net9.0\Tarea2.pdb
+C:\L10_JR_1096625\Tarea2\obj\Debug\net9.0\Tarea2.GeneratedMSBuildEditorConfig.editorconfig
+C:\L10_JR_1096625\Tarea2\obj\Debug\net9.0\Tarea2.AssemblyInfoInputs.cache
+C:\L10_JR_1096625\Tarea2\obj\Debug\net9.0\Tarea2.AssemblyInfo.cs
+C:\L10_JR_1096625\Tarea2\obj\Debug\net9.0\Tarea2.csproj.CoreCompileInputs.cache
+C:\L10_JR_1096625\Tarea2\obj\Debug\net9.0\Tarea2.dll
+C:\L10_JR_1096625\Tarea2\obj\Debug\net9.0\refint\Tarea2.dll
+C:\L10_JR_1096625\Tarea2\obj\Debug\net9.0\Tarea2.pdb
+C:\L10_JR_1096625\Tarea2\obj\Debug\net9.0\Tarea2.genruntimeconfig.cache
+C:\L10_JR_1096625\Tarea2\obj\Debug\net9.0\ref\Tarea2.dll
