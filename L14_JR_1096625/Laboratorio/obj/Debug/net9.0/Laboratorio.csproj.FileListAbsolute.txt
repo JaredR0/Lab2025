@@ -1,0 +1,14 @@
+C:\L14_JR_1096625\Laboratorio\bin\Debug\net9.0\Laboratorio.exe
+C:\L14_JR_1096625\Laboratorio\bin\Debug\net9.0\Laboratorio.deps.json
+C:\L14_JR_1096625\Laboratorio\bin\Debug\net9.0\Laboratorio.runtimeconfig.json
+C:\L14_JR_1096625\Laboratorio\bin\Debug\net9.0\Laboratorio.dll
+C:\L14_JR_1096625\Laboratorio\bin\Debug\net9.0\Laboratorio.pdb
+C:\L14_JR_1096625\Laboratorio\obj\Debug\net9.0\Laboratorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\L14_JR_1096625\Laboratorio\obj\Debug\net9.0\Laboratorio.AssemblyInfoInputs.cache
+C:\L14_JR_1096625\Laboratorio\obj\Debug\net9.0\Laboratorio.AssemblyInfo.cs
+C:\L14_JR_1096625\Laboratorio\obj\Debug\net9.0\Laboratorio.csproj.CoreCompileInputs.cache
+C:\L14_JR_1096625\Laboratorio\obj\Debug\net9.0\Laboratorio.dll
+C:\L14_JR_1096625\Laboratorio\obj\Debug\net9.0\refint\Laboratorio.dll
+C:\L14_JR_1096625\Laboratorio\obj\Debug\net9.0\Laboratorio.pdb
+C:\L14_JR_1096625\Laboratorio\obj\Debug\net9.0\Laboratorio.genruntimeconfig.cache
+C:\L14_JR_1096625\Laboratorio\obj\Debug\net9.0\ref\Laboratorio.dll
