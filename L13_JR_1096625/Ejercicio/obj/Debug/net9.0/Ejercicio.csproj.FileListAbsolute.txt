@@ -1,0 +1,14 @@
+C:\L13_JR_1096625\Ejercicio\bin\Debug\net9.0\Ejercicio.exe
+C:\L13_JR_1096625\Ejercicio\bin\Debug\net9.0\Ejercicio.deps.json
+C:\L13_JR_1096625\Ejercicio\bin\Debug\net9.0\Ejercicio.runtimeconfig.json
+C:\L13_JR_1096625\Ejercicio\bin\Debug\net9.0\Ejercicio.dll
+C:\L13_JR_1096625\Ejercicio\bin\Debug\net9.0\Ejercicio.pdb
+C:\L13_JR_1096625\Ejercicio\obj\Debug\net9.0\Ejercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\L13_JR_1096625\Ejercicio\obj\Debug\net9.0\Ejercicio.AssemblyInfoInputs.cache
+C:\L13_JR_1096625\Ejercicio\obj\Debug\net9.0\Ejercicio.AssemblyInfo.cs
+C:\L13_JR_1096625\Ejercicio\obj\Debug\net9.0\Ejercicio.csproj.CoreCompileInputs.cache
+C:\L13_JR_1096625\Ejercicio\obj\Debug\net9.0\Ejercicio.dll
+C:\L13_JR_1096625\Ejercicio\obj\Debug\net9.0\refint\Ejercicio.dll
+C:\L13_JR_1096625\Ejercicio\obj\Debug\net9.0\Ejercicio.pdb
+C:\L13_JR_1096625\Ejercicio\obj\Debug\net9.0\Ejercicio.genruntimeconfig.cache
+C:\L13_JR_1096625\Ejercicio\obj\Debug\net9.0\ref\Ejercicio.dll
