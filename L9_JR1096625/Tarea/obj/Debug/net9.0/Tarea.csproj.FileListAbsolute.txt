@@ -1,0 +1,14 @@
+C:\L9_JR1096625\Tarea\bin\Debug\net9.0\Tarea.exe
+C:\L9_JR1096625\Tarea\bin\Debug\net9.0\Tarea.deps.json
+C:\L9_JR1096625\Tarea\bin\Debug\net9.0\Tarea.runtimeconfig.json
+C:\L9_JR1096625\Tarea\bin\Debug\net9.0\Tarea.dll
+C:\L9_JR1096625\Tarea\bin\Debug\net9.0\Tarea.pdb
+C:\L9_JR1096625\Tarea\obj\Debug\net9.0\Tarea.GeneratedMSBuildEditorConfig.editorconfig
+C:\L9_JR1096625\Tarea\obj\Debug\net9.0\Tarea.AssemblyInfoInputs.cache
+C:\L9_JR1096625\Tarea\obj\Debug\net9.0\Tarea.AssemblyInfo.cs
+C:\L9_JR1096625\Tarea\obj\Debug\net9.0\Tarea.csproj.CoreCompileInputs.cache
+C:\L9_JR1096625\Tarea\obj\Debug\net9.0\Tarea.dll
+C:\L9_JR1096625\Tarea\obj\Debug\net9.0\refint\Tarea.dll
+C:\L9_JR1096625\Tarea\obj\Debug\net9.0\Tarea.pdb
+C:\L9_JR1096625\Tarea\obj\Debug\net9.0\Tarea.genruntimeconfig.cache
+C:\L9_JR1096625\Tarea\obj\Debug\net9.0\ref\Tarea.dll
