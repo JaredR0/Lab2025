@@ -1,0 +1,14 @@
+C:\L11_JR_1096625\Tarea3\bin\Debug\net9.0\Tarea3.exe
+C:\L11_JR_1096625\Tarea3\bin\Debug\net9.0\Tarea3.deps.json
+C:\L11_JR_1096625\Tarea3\bin\Debug\net9.0\Tarea3.runtimeconfig.json
+C:\L11_JR_1096625\Tarea3\bin\Debug\net9.0\Tarea3.dll
+C:\L11_JR_1096625\Tarea3\bin\Debug\net9.0\Tarea3.pdb
+C:\L11_JR_1096625\Tarea3\obj\Debug\net9.0\Tarea3.GeneratedMSBuildEditorConfig.editorconfig
+C:\L11_JR_1096625\Tarea3\obj\Debug\net9.0\Tarea3.AssemblyInfoInputs.cache
+C:\L11_JR_1096625\Tarea3\obj\Debug\net9.0\Tarea3.AssemblyInfo.cs
+C:\L11_JR_1096625\Tarea3\obj\Debug\net9.0\Tarea3.csproj.CoreCompileInputs.cache
+C:\L11_JR_1096625\Tarea3\obj\Debug\net9.0\Tarea3.dll
+C:\L11_JR_1096625\Tarea3\obj\Debug\net9.0\refint\Tarea3.dll
+C:\L11_JR_1096625\Tarea3\obj\Debug\net9.0\Tarea3.pdb
+C:\L11_JR_1096625\Tarea3\obj\Debug\net9.0\Tarea3.genruntimeconfig.cache
+C:\L11_JR_1096625\Tarea3\obj\Debug\net9.0\ref\Tarea3.dll
