@@ -1,0 +1,14 @@
+C:\pensamiento\MiPrimerProyecto\bin\Debug\net9.0\MiPrimerProyecto.exe
+C:\pensamiento\MiPrimerProyecto\bin\Debug\net9.0\MiPrimerProyecto.deps.json
+C:\pensamiento\MiPrimerProyecto\bin\Debug\net9.0\MiPrimerProyecto.runtimeconfig.json
+C:\pensamiento\MiPrimerProyecto\bin\Debug\net9.0\MiPrimerProyecto.dll
+C:\pensamiento\MiPrimerProyecto\bin\Debug\net9.0\MiPrimerProyecto.pdb
+C:\pensamiento\MiPrimerProyecto\obj\Debug\net9.0\MiPrimerProyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\pensamiento\MiPrimerProyecto\obj\Debug\net9.0\MiPrimerProyecto.AssemblyInfoInputs.cache
+C:\pensamiento\MiPrimerProyecto\obj\Debug\net9.0\MiPrimerProyecto.AssemblyInfo.cs
+C:\pensamiento\MiPrimerProyecto\obj\Debug\net9.0\MiPrimerProyecto.csproj.CoreCompileInputs.cache
+C:\pensamiento\MiPrimerProyecto\obj\Debug\net9.0\MiPrimerProyecto.dll
+C:\pensamiento\MiPrimerProyecto\obj\Debug\net9.0\refint\MiPrimerProyecto.dll
+C:\pensamiento\MiPrimerProyecto\obj\Debug\net9.0\MiPrimerProyecto.pdb
+C:\pensamiento\MiPrimerProyecto\obj\Debug\net9.0\MiPrimerProyecto.genruntimeconfig.cache
+C:\pensamiento\MiPrimerProyecto\obj\Debug\net9.0\ref\MiPrimerProyecto.dll
