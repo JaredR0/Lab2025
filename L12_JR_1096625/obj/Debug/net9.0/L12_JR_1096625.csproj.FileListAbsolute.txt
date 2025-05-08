@@ -1,0 +1,14 @@
+C:\L12_JR_1096625\bin\Debug\net9.0\L12_JR_1096625.exe
+C:\L12_JR_1096625\bin\Debug\net9.0\L12_JR_1096625.deps.json
+C:\L12_JR_1096625\bin\Debug\net9.0\L12_JR_1096625.runtimeconfig.json
+C:\L12_JR_1096625\bin\Debug\net9.0\L12_JR_1096625.dll
+C:\L12_JR_1096625\bin\Debug\net9.0\L12_JR_1096625.pdb
+C:\L12_JR_1096625\obj\Debug\net9.0\L12_JR_1096625.GeneratedMSBuildEditorConfig.editorconfig
+C:\L12_JR_1096625\obj\Debug\net9.0\L12_JR_1096625.AssemblyInfoInputs.cache
+C:\L12_JR_1096625\obj\Debug\net9.0\L12_JR_1096625.AssemblyInfo.cs
+C:\L12_JR_1096625\obj\Debug\net9.0\L12_JR_1096625.csproj.CoreCompileInputs.cache
+C:\L12_JR_1096625\obj\Debug\net9.0\L12_JR_1096625.dll
+C:\L12_JR_1096625\obj\Debug\net9.0\refint\L12_JR_1096625.dll
+C:\L12_JR_1096625\obj\Debug\net9.0\L12_JR_1096625.pdb
+C:\L12_JR_1096625\obj\Debug\net9.0\L12_JR_1096625.genruntimeconfig.cache
+C:\L12_JR_1096625\obj\Debug\net9.0\ref\L12_JR_1096625.dll
